@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/uzmanaaz2024/static-website1.git'
+                git branch: 'main', url: 'https://github.com/imranpathan9521-cyber/static-website1.git'
             }
         }
 
